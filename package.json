@@ -1,0 +1,18 @@
+{
+  "name": "fullstack-coding-challenge-react",
+  "version": "1.0.0",
+  "description": "A package containing a candidate API, which should be used in the challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --port 3010 --watch api.json"
+  },
+  "keywords": [
+    "\"react\"",
+    "\"hiring\""
+  ],
+  "author": "Knockri Inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  }
+}
